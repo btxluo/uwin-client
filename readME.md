@@ -1,4 +1,3 @@
-
 打包exe命令
 .\venv\Scripts\pyinstaller.exe main.spec --noconfirm
 
@@ -9,6 +8,11 @@
 The actual winning and losing data collected from Macau and Las Vegas for many years, using AI intelligent neural network algorithm, the model can slightly improve the accuracy rate.
 
 #### 使用（HowTO）
+##### 直接下载windows执行包，支持win7+ (Download windows7+ released version directly)
+下载地址：
+http://www.xalcst.xyz/download/uwin_1.0.0.rar
+
+##### 或者自行安装执行环境 (Or install execution environment by yourself)
 1、安装python3.7+
 
 1. Install python3.7+
