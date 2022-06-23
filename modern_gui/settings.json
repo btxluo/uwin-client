@@ -1,0 +1,35 @@
+{
+    "app_name": "巨页科技<sup>@</sup>",
+    "version" : "v1.0.0",
+    "copyright" : "By巨页科技<sup>@</sup> uwin_cd@163.com",
+    "year" : 2022,
+    "theme_name" : "dracula",
+    "custom_title_bar": true,
+    "startup_size": [
+        800,
+        450
+    ],
+    "minimum_size": [
+        640,
+        450
+    ],
+    "lef_menu_size" : {
+        "minimum" : 50,
+        "maximum" : 240
+    },
+    "left_menu_content_margins" : 3,
+    "left_column_size" : {
+        "minimum" : 0,
+        "maximum" : 240
+    },
+    "right_column_size" : {
+        "minimum" : 0,
+        "maximum" : 240
+    },
+    "time_animation" : 500,
+    "font" : {
+        "family" : "Microsoft Yahei",
+        "title_size" : 10,
+        "text_size" : 9
+    }
+}

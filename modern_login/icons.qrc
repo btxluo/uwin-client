@@ -1,0 +1,10 @@
+<RCC>
+  <qresource prefix="icons">
+    <file>icons/lock_32x32.png</file>
+    <file>icons/mail_32x32.png</file>
+    <file>icons/user_32x32.png</file>
+    <file>icons/uwin_dot_bright-256x256.png</file>
+    <file>icons/uwin_dot_dark-256x256.png</file>
+    <file>icons/uwin_dot_h-256x256.png</file>
+  </qresource>
+</RCC>

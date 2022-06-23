@@ -1,0 +1,6 @@
+{
+  "server_IP": "127.0.0.1",
+  "server_port_login": 9999,
+  "server_port_2": 9994,
+  "server_port_3": 9995
+}
